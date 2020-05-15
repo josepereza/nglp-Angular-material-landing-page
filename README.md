@@ -1,5 +1,5 @@
 # NGLP - Angular Material Landing Page
-![image](langding.png)
+![image](landing.png)
 
 ## Overview
 
